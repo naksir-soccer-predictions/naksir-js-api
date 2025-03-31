@@ -1,0 +1,15 @@
+naksir-js-api/
+│
+├── api/
+│   ├── validate-token.js       # token verifikacija
+│   ├── get.js                  # vraća prediction podatke
+│
+├── lib/
+│   └── tokens.js               # token logika (memorija)
+│
+├── public/
+│   └── index.html              # eventualno statički prikaz
+│
+├── .gitignore
+├── package.json
+└── README.md
